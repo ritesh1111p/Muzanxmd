@@ -21,14 +21,14 @@ const TG_ADMIN_IDS = ["5924662015"];
 const TG_CHANNEL_ID = "-1003233462140";
 const TG_CHANNEL_LINK = "https://t.me/chandxxd";
 const TG_GROUP_ID = "-1004410232326";
-const TG_GROUP_LINK = "https://t.me/aakazaxmd";
+const TG_GROUP_LINK = "https://t.me/amuzanxxmd";
 const TG_ADMIN_LINK = "https://t.me/mooN_X_2006";
 
 // WhatsApp channel + menu media
 const WA_CHANNEL_LINK = "https://whatsapp.com/channel/0029VbB4OB8AzNc4Da23JY05";
 const WA_CHANNEL_JID = "120363419521830202@newsletter";
-const BOT_PIC_URL = "https://qu.ax/w0Mus";
-const MENU_VIDEO_URL = "https://qu.ax/9iWJl";
+const BOT_PIC_URL = "https://files.catbox.moe/7oax6b.jpg";
+const MENU_VIDEO_URL = "https://files.catbox.moe/n74rka.mp4";
 const MENU_AUDIO_URL = "https://files.catbox.moe/s76fo4.mp3";
 
 // Local persistence — no MongoDB.
